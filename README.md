@@ -11,7 +11,7 @@ Now, let's build the conversation!
 
 ## Task 1: Downloed [this](https://developer.ibm.com/code/exchanges/bots/?s=%D9%85%D8%B3%D8%A7%D8%B9%D8%AF) Jason file from bot exchange
 
-![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/37486654/45157783-bf9cfb80-b1ea-11e8-886c-f0a9a16b5917.gif)
+![ezgif com-video-to-gif 3](https://user-images.githubusercontent.com/37486654/45158464-c88ecc80-b1ec-11e8-93f0-6079a1d7ccbf.gif)
 
 ## Task 2: Login to your IBM Cloud account & create Conversation service
 
@@ -21,7 +21,8 @@ Now, let's build the conversation!
 4. Click on **Create** to create an instance of the service. Make sure you choose an **organization** and **space**.
 5. Click on **Launch tool** to open the tool.
 
-![ezgif com-video-to-gif 3](https://user-images.githubusercontent.com/37486654/45158171-e27bdf80-b1eb-11e8-8bc5-88501363d625.gif)
+![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/37486654/45158470-ccbaea00-b1ec-11e8-8944-d6b5c86cc233.gif)
+
 
 ## Task 3: Import Jason file to your workspace
 
@@ -30,4 +31,4 @@ Now, let's build the conversation!
 3. Click on **Choose a file** and choose the Jason file.
 4. Click on **Import**
 
-![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/37486654/45157887-07bc1e00-b1eb-11e8-8492-460d1cd65d7d.gif)
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/37486654/45158475-cdec1700-b1ec-11e8-8e07-1f0bed598265.gif)
