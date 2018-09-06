@@ -13,9 +13,9 @@ Now, let's build the conversation!
 
 ![ezgif com-video-to-gif 3](https://user-images.githubusercontent.com/37486654/45158464-c88ecc80-b1ec-11e8-93f0-6079a1d7ccbf.gif)
 
-## Task 2: Login to your IBM Cloud account & create Conversation service
+## Task 2: Login to your IBM Cloud account & create a Watson Assistant service
 
-1. Login to your IBM Cloud account, if you don't have one already you can [singup here](https://ibm.biz/BdZift).
+1. Log in to your IBM Cloud account, if you don't have one already you can [sing up here](https://ibm.biz/BdZift).
 2. Open the Catalog, click on **AI** to refine search.
 3. Scroll down and click on **Watson Assistant** service.
 4. Click on **Create** to create an instance of the service. Make sure you choose an **organization** and **space**.
@@ -32,3 +32,5 @@ Now, let's build the conversation!
 4. Click on **Import**
 
 ![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/37486654/45158475-cdec1700-b1ec-11e8-8e07-1f0bed598265.gif)
+
+**Your bot is ready to be linked with an interface**
