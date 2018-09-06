@@ -30,4 +30,4 @@ Now, let's build the conversation!
 3. Click on **Choose a file** and choose the Jason file.
 4. Click on **Import**
 
-
+![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/37486654/45157887-07bc1e00-b1eb-11e8-8492-460d1cd65d7d.gif)
