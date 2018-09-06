@@ -11,6 +11,8 @@ Now, let's build the conversation!
 
 ## Task 1: Downloed [this](https://developer.ibm.com/code/exchanges/bots/?s=%D9%85%D8%B3%D8%A7%D8%B9%D8%AF) Jason file from bot exchange
 
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/37486654/45157783-bf9cfb80-b1ea-11e8-886c-f0a9a16b5917.gif)
+
 ## Task 2: Login to your IBM Cloud account & create Conversation service
 
 1. Login to your IBM Cloud account, if you don't have one already you can [singup here](https://ibm.biz/BdZift).
