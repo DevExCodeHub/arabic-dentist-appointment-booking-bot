@@ -26,7 +26,7 @@ Now, let's build the conversation!
 
 ## Task 3: Import Jason file to your workspace
 
-1. Select Workspace.
+1. Select **Workspace**.
 2. Click on **import icon** to import the wrokspace.
 3. Click on **Choose a file** and choose the Jason file.
 4. Click on **Import**
